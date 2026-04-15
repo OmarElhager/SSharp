@@ -1,4 +1,4 @@
-# S# Programming Language
+<img width="529" height="136" alt="ssharp-original" src="https://github.com/user-attachments/assets/6e117ed2-d3b5-40c4-9f28-bf0a627429db" />
 
 S# is a custom programming language built from scratch in Python.  
 It features a bytecode compiler, virtual machine, functions, recursion, and object-oriented programming.
